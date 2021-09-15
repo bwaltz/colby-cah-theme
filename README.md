@@ -1,4 +1,4 @@
-# Colby Base Theme
+# Colby CAH Theme
 
 This is the Colby College default WordPress theme starter kit based on [Sage](https://roots.io/sage/). Included is Colby's base set of brand styling as well as re-usable templates and functionality.
 

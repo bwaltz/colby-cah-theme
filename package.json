@@ -1,14 +1,14 @@
 {
-    "name": "@colbycommunications/colby-base-theme",
+    "name": "@colbycommunications/colby-cah-theme",
     "version": "1.0.0",
     "author": "Brandon Waltz <brandon.waltz@colby.edu>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ColbyCommunications/colby-base-theme.git"
+        "url": "https://github.com/ColbyCommunications/colby-cah-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/ColbyCommunications/colby-base-theme/issues"
+        "url": "https://github.com/ColbyCommunications/colby-cah-theme/issues"
     },
     "husky": {
         "hooks": {
